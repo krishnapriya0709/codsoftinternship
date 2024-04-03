@@ -40,5 +40,4 @@ String playChoice = scanner.next();
 playAgain = playChoice.equalsIgnoreCase("yes");
 }
 System.out.println("Thanks for playing!");
-}
-}
+}}
